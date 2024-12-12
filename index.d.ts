@@ -5,5 +5,5 @@ export type Options = {
 
 export type LoaderContext = import("webpack").LoaderContext<Options>;
 
-declare function showdownLoader(this: LoaderContext, value: string): void;
-export default showdownLoader;
+declare function showmarkLoader(this: LoaderContext, value: string): void;
+export default showmarkLoader;
