@@ -1,0 +1,23 @@
+{
+  "name": "showmark-loader",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.cjs",
+  "types": "index.d.ts",
+  "files": [
+    "lib/",
+    "index.d.ts",
+    "index.cjs"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "showmark": "^0.3.2",
+    "showmark-ctypes": "^0.1.0",
+    "showmark-env": "^0.1.0",
+    "webpack": "^5.97.1"
+  }
+}
