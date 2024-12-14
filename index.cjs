@@ -1,5 +1,5 @@
 /** @import {JSXCompilerOptions} from "showmark/jsx" */
-/** @import {ShowMarkOptions} from "showmark*/
+/** @import {ShowMarkOptions} from "showmark/converter"*/
 
 /** @typedef {{compilerOptions?: JSXCompilerOptions;converterOptions?: ShowMarkOptions}} Options */
 

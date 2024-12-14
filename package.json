@@ -15,9 +15,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "showmark": "^0.4.0",
-    "showmark-ctypes": "^0.1.0",
-    "showmark-env": "^0.1.0",
+    "showmark": "^0.5.0",
     "webpack": "^5.97.1"
   }
 }
