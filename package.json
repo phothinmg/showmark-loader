@@ -15,6 +15,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@types/mdx": "^2.0.13",
     "showmark": "^0.6.0",
     "webpack": "^5.97.1"
   }
