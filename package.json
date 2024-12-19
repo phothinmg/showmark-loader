@@ -10,13 +10,23 @@
     "index.cjs"
   ],
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "Showdown.js",
+    "MDX Components",
+    "Markdown",
+    "Webpack",
+    "loader"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "description": "",
   "dependencies": {
     "@types/mdx": "^2.0.13",
     "showmark": "^0.6.1",
     "webpack": "^5.97.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phothinmg/showmark-webpack.git"
   }
 }
